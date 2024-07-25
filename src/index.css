@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  
+}
+
+
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px 0;
+  margin-left: 20px;
+  font-size: 20px;
+  color: #080807;
+  background-color: #f57a07;
+  text-align: center;
+  text-decoration: none;
+  justify-content: center;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.about {
+  max-width: 1200px;
+  min-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-size: x-large;
+  text-align: center;
+  animation: fadeIn 2s ease-in-out;
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-image{
+  background: url("https://i.pinimg.com/originals/8e/46/15/8e46150f790fbefe438d9c2767c32ad1.gif");
+}
+
+.text-orange {
+  color: orangered;
+}
+
+.nav-link {
+  cursor: pointer;
+}
+
+.nav-link:hover {
+  background-color: orangered;
+  padding-bottom: 0.5rem;
+}
+.heading {
+  letter-spacing: 2px;
+  color: orangered;
+}
+
+
+.transparent-input {
+  background-color: rgba(0, 0, 0, 0) !important;
+  
+}
+
+.home-img img{
+  height:300px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+
+.card{
+  border-color: orangered;
+}
+
+.flip-box{
+  transform-style: preserve-3d;
+  perspective: 1000px;
+  cursor: pointer;
+}
+
+.flip-box-front, .flip-box-back{
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+  transition:transform 0.7 cubic-bezier(.4, .2, .2, 1);
+  backface-visibility: hidden;
+}
+
+.flip-box-front{
+  transform: rotateY(0deg);
+  transform-style: preserve-3d;
+}
+
+.flip-box:hover .flip-box-front{
+  transform: rotateY(-180deg);
+  transform-style: preserve-3d;
+}
+
+.flip-box-back{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  transform: rotateY(180deg);
+  transform-style: preserve-3d;
+}
+
+.flip-box:hover .flip-box-back{
+  transform: rotateY(0deg);
+  transform-style: preserve-3d;
+}
