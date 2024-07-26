@@ -44,7 +44,7 @@
 }
 
 .bg-image{
-  background: url("https://i.pinimg.com/originals/8e/46/15/8e46150f790fbefe438d9c2767c32ad1.gif");
+  background: url("https://wallpapercave.com/wp/wp2757874.gif");
 }
 
 .text-orange {
@@ -117,4 +117,13 @@
 .flip-box:hover .flip-box-back{
   transform: rotateY(0deg);
   transform-style: preserve-3d;
+}
+.head-text {
+  position: relative;
+}
+.text-on-image {
+ position: absolute;
+ right: 20%;
+ left: 20%;
+ bottom: 80%;
 }

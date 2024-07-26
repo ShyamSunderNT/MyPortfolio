@@ -18,29 +18,36 @@ function Skills() {
       <div className="tech-list mt-5 border rounded" data-aos="flip-up">
         <h2 className='text-center'>Frontend</h2>
         <div className="skill-set1 d-flex justify-content-between flex-wrap m-3 p-3">
+          <div className = "head-text">
+            <div className = "head-image">
           <img
-            src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png"
+            src="https://cdn.icon-icons.com/icons2/171/PNG/512/html5_23329.png"
             alt="HTML5"
             className="tech-list-item"
-            style={{ width: "100px", height: "120px" }}
+            style={{ width: "120px", height: "120px" }}
             data-aos="zoom-in"
           />
+          </div>
+          <div class='text-on-image'>
+            <h3>HTML</h3>
+          </div>
+          </div>
           <img
-            src="https://cdn.iconscout.com/icon/free/png-256/free-css3-8-1175200.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"
             alt="CSS3"
             className="tech-list-item"
-            style={{ width: "100px", height: "120px" }}
+            style={{ width: "100px", height: "100px" }}
             data-aos="zoom-in"
           />
           <img
-            src="https://jbstechinfo.com/wp-content/uploads/2023/08/JavaScript-Symbol.png"
+            src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"
             alt="JavaScript"
             className="tech-list-item"
             style={{ width: "160px", height: "100px" }}
             data-aos="zoom-in"
           />
           <img
-            src="https://onextrapixel.com/wp-content/uploads/2016/04/reactjs-thumb.jpg"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s"
             alt="React"
             className="tech-list-item"
             style={{ width: "120px", height: "120px" }}
