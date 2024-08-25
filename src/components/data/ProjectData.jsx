@@ -3,7 +3,7 @@ export const  projectData=[
         image:"https://res.cloudinary.com/dn5pbsqio/image/upload/v1721229426/portfolio/hnbrggdbddcdomhftm2m.png",
         name:"Chat-Sync ",
         description:"A MERN stack chat application that supports one-on-one and group chats, allowing users to edit group names and manage chat experiences in real-time. ",
-        deployedLink:"chat-synce-frontend.netlify.app",
+        deployedLink:"https://chat-synce-frontend.netlify.app/",
         sourceLink:"https://github.com/ShyamSunderNT/Chat-sync-frontend"
       },
       {
