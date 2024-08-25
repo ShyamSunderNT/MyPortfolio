@@ -53,7 +53,7 @@ const Home = () => {
 
       <a
         className="btn text-orange border"
-        href="https://drive.google.com/file/d/1QX10VJ3MUgR1YbAZfm7lV73hwlRk3Kqj/view?usp=sharing"
+        href="https://drive.google.com/file/d/10BGv055V917QJI9x83Jm9ktA9_GzC9-1/view?usp=drive_link"
         target="_blank"
       >
         Download Resume

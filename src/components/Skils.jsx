@@ -16,7 +16,7 @@ function Skills() {
       <h4 className="fst-italic fw-bold fs-4 mt-5 pt-5 text-center heading" data-aos="fade-up">SKILLS</h4>
 
       <div className="tech-list mt-5 border rounded" data-aos="flip-up">
-        <h2 className='text-center'>Frontend</h2>
+        <h2 className='text-center text-orange'>Frontend</h2>
         <div className="skill-set1 d-flex justify-content-between flex-wrap m-3 p-3">
           <div className = "head-text">
             <div className = "head-image">
@@ -32,6 +32,8 @@ function Skills() {
             <h3>HTML</h3>
           </div>
           </div>
+          <div className = "head-text">
+            <div className = "head-image">
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"
             alt="CSS3"
@@ -39,6 +41,13 @@ function Skills() {
             style={{ width: "100px", height: "100px" }}
             data-aos="zoom-in"
           />
+          </div>
+          <div class='text-on-image1'>
+            <h3>CSS</h3>
+          </div>
+          </div>
+          <div className = "head-text">
+            <div className = "head-image">
           <img
             src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"
             alt="JavaScript"
@@ -46,6 +55,13 @@ function Skills() {
             style={{ width: "160px", height: "100px" }}
             data-aos="zoom-in"
           />
+          </div>
+          <div class='text-on-image2'>
+          <h3>JavaScript</h3>
+          </div>
+          </div>
+          <div className = "head-text">
+            <div className = "head-image">
           <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s"
             alt="React"
@@ -53,6 +69,13 @@ function Skills() {
             style={{ width: "120px", height: "120px" }}
             data-aos="zoom-in"
           />
+          </div>
+          <div class='text-on-image2'>
+          <h3>React</h3>
+          </div>
+          </div>
+          <div className = "head-text">
+          <div className = "head-image">
            <img
             src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo-300x240.png"
             alt="Bootstrap"
@@ -60,6 +83,13 @@ function Skills() {
             style={{ width: "100px", height: "120px" }}
             data-aos="zoom-in"
           />
+          </div>
+          <div className='text-on-image3'>
+          <h3>Bootstrap</h3>
+          </div>
+          </div>
+          <div className = "head-text">
+            <div className = "head-image">
           <img
             src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdxy1c2bvl6odeo52dodk.jpg"
             alt="tailwind css"
@@ -67,8 +97,13 @@ function Skills() {
             style={{ width: "100px", height: "120px" }}
             data-aos="zoom-in"
           />
+          </div>
+          <div className='text-on-image4'>
+          <h3>TailWindCss</h3>
+          </div>
+          </div>
         </div>
-         <h2 className='text-center'>Backend</h2>
+         <h2 className='text-center text-orange'>Backend</h2>
         <div className="skill-set2 d-flex justify-content-between flex-wrap m-5 p-5">
           <img
             src="https://camo.githubusercontent.com/f2bf53202c75bfcd9de18d25750f295f3e9c3cb56d4bfcf6a41038ff44b5aec4/687474703a2f2f636f64652d6d6176656e2e636f6d2f696d672f6e6f64652e706e67"

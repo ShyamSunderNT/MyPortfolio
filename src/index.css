@@ -11,16 +11,16 @@
 
 .button {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 10px 15px;
   margin: 10px 0;
   margin-left: 20px;
   font-size: 20px;
-  color: #080807;
-  background-color: #f57a07;
+  color: #f5f5f2;
+  background-color: #f85205;
   text-align: center;
   text-decoration: none;
   justify-content: center;
-  border-radius: 5px;
+  border-radius: 20px;
   transition: background-color 0.3s ease;
   transition: background-color 0.3s ease, transform 0.3s ease;
 }
@@ -125,5 +125,29 @@
  position: absolute;
  right: 20%;
  left: 20%;
- bottom: 80%;
+ bottom: 85%;
 }
+.text-on-image1 {
+  position: absolute;
+  right: 20%;
+  left: 20%;
+  bottom: 94%;
+ }
+.text-on-image2 {
+  position: absolute;
+  right: 20%;
+  left: 11%;
+  bottom: 95%;
+ }
+ .text-on-image3 {
+  position: relative;
+  right: 8px;
+ 
+  bottom: 97%;
+ }
+ .text-on-image4 {
+  position: relative;
+  right: 23px;
+  
+  bottom: 95%;
+ }
