@@ -28,8 +28,9 @@ const Topbar = () => {
           >
             
           <Link className="nav-link text-light" activeClass="active" to="home" spy={true} smooth={true} duration={500} offset={50}>Home</Link>
-          <Link className="nav-link text-light" to="about" spy={true} smooth={true} duration={500} offset={50}>About</Link>
-          <Link className="nav-link text-light" to="skills" spy={true} smooth={true} duration={500} offset={50}>Skills</Link>
+          <Link className="nav-link text-light" to="about" spy={true} smooth={true} duration={500} offset={50}>Course</Link>
+          <Link className="nav-link text-light" to="Education" spy={true} smooth={true} duration={500} offset={50}>Education</Link>
+          <Link className="nav-link text-light" to="Skills" spy={true} smooth={true} duration={500} offset={50}>Skills</Link>
           <Link className="nav-link text-light" to="projects" spy={true} smooth={true} duration={500} offset={50}>Projects</Link>
           <Link className="nav-link text-light" to="contact" spy={true} smooth={true} duration={500} offset={50}>Contact</Link>
           </Nav>

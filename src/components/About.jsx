@@ -4,14 +4,14 @@ const About = () => {
     return (
 
         <div id="about" className="container-fluid bg-dark bg-image text-white p-5">
-          <h1 className="fst-italic fw-bold fs-4 mt-5 pt-5 text-center heading" data-aos="fade-up">About</h1>  
+          <h1 className="fst-italic fw-bold fs-4 mt-5 pt-5 text-center heading" data-aos="fade-up">Course</h1>  
         <div className="tech-list mt-5 border rounded "  >
        
           
           <div className="about " >
           <p>
-             I have completed a full stack development (MERN) certification course <br />
-            at GUVI IIT Madras. This intensive 3-month course, from March-2024 <br />
+             I have completed a full stack development (MERN) <br />certification course 
+            at GUVI IIT Madras.<br /> This intensive 3-month course, from March-2024 <br />
             to May 2024, equipped me with the skills and knowledge to develop <br />
             robust and scalable web applications using the MERN stack. <br />
           </p>
