@@ -30,6 +30,11 @@ export const skills = [
           name: "Bootstrap",
           image:
             "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+        },
+        {
+          name: "tailwind",
+          image:
+            "https://www.drupal.org/files/project-images/screenshot_361.png",
         }
       ],
     },
@@ -79,6 +84,11 @@ export const skills = [
           name: "Vercel",
           image:
             "https://w7.pngwing.com/pngs/436/888/png-transparent-vercel-hd-logo.png",
+        },
+        {
+          name: "Netlify",
+          image:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvwgpiqc9FrNeVcW-NQekpPIwIcktyys_nw&s",
         },
         {
           name: "VS Code",

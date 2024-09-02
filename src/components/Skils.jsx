@@ -189,7 +189,7 @@ const Title = styled.div`
   text-align: center;
   font-weight: 600;
   margin-top: 20px;
-  color: white;
+  color: orangered;;
   @media (max-width: 768px) {
     margin-top: 12px;
     font-size: 32px;
