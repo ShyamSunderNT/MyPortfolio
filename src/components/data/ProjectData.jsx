@@ -7,11 +7,11 @@ export const  projectData=[
         sourceLink:"https://github.com/ShyamSunderNT/Chat-sync-frontend"
       },
       {
-        image:"https://res.cloudinary.com/dn5pbsqio/image/upload/v1721229426/portfolio/macpaja4jvf63997qrtr.png",
+        image:"https://res.cloudinary.com/dn5pbsqio/image/upload/v1730012813/portfolio/yqkzraib4fcln18zyvt6.jpg",
         name:"E Commerce ",
-        description:"Product add card and remove cart ",
-        deployedLink:"https://price-cart-site.netlify.app/?",
-        sourceLink:"https://github.com/ShyamSunderNT/PricecartTask"
+        description:"This is a fully functional e-commerce application built with React. The app provides a seamless shopping experience, allowing users to register, log in, browse products, manage their accounts, and complete purchases. ",
+        deployedLink:"https://easy-shop-e-commerce.netlify.app/",
+        sourceLink:"https://github.com/ShyamSunderNT/e-commorece-FD"
       },
       {
         image:"https://res.cloudinary.com/dn5pbsqio/image/upload/v1721229427/portfolio/gv6x0ilwjnkycsh98fxw.png",
@@ -42,6 +42,12 @@ export const  projectData=[
         deployedLink:"https://emoji-cube.netlify.app/",
         sourceLink:"https://github.com/ShyamSunderNT/Emoji-hub"
       },
-   
+      {
+        image:"https://res.cloudinary.com/dn5pbsqio/image/upload/v1721229426/portfolio/macpaja4jvf63997qrtr.png",
+        name:"E Commerce ",
+        description:"Product add card and remove cart ",
+        deployedLink:"https://price-cart-site.netlify.app/?",
+        sourceLink:"https://github.com/ShyamSunderNT/PricecartTask"
+      },
 
   ]
