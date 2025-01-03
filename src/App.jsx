@@ -7,6 +7,7 @@ import { Toaster } from 'react-hot-toast';
 import About from './components/About';
 import Projects from './components/Projects';
 import Education from './components/education';
+import Experience from './components/Experince';
 
 const App = () => {
   return (
@@ -14,8 +15,10 @@ const App = () => {
        <Toaster position="top-center" />
       <Topbar />
     <Home />
-    <About />
     <Education />
+    <Experience />
+    <About />
+    
     <Skills />
     <Projects />
     <Contact />

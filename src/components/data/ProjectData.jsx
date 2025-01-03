@@ -49,5 +49,12 @@ export const  projectData=[
         deployedLink:"https://price-cart-site.netlify.app/?",
         sourceLink:"https://github.com/ShyamSunderNT/PricecartTask"
       },
+      {
+        image:"https://res.cloudinary.com/dn5pbsqio/image/upload/v1735896741/Screenshot_2025-01-03_143831_n6ycx1.png",
+        name:"IMDB Clone ",
+        description:"An IMDb clone is a movie database platform that provides detailed information about films, TV shows, actors, and reviews, similar to IMDb. review, and track content, while offering personalized recommendations and trending lists.",
+        deployedLink:"https://imdb-clone-shyam.netlify.app/",
+        sourceLink:"https://github.com/ShyamSunderNT/IMDBFD"
+      },
 
   ]

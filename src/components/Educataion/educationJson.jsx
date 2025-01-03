@@ -28,4 +28,25 @@ export const education = [
     },
   ];
   
- 
+ export const experience =[
+  {
+    id: 0,
+    img: "https://content.jdmagicbox.com/comp/ramanathapuram/u4/9999p4567.4567.240222164813.j7u4/catalogue/lubo-soft-panaikulam-ramanathapuram-computer-dealers-m1vto0d0qp-250.jpg",
+    role: "Frontend Developer",
+    company: "LUBO SOFT Software Solutions Company",
+    date: "july-2024 - Present",
+    desc: "I am currently working as a freelancer at Lubo Soft, where I contribute to various projects, providing custom software solutions and web development services. My focus is on delivering high-quality, user-centric applications tailored to meet client requirements and business goals.",
+    skills: ["HTML","CSS","Javascript","ReactJS","Git","Tailwind CSS","Bootstrap"],
+    doc: " ",
+  },
+  {
+    id: 1,
+    img: "https://res.cloudinary.com/dn5pbsqio/image/upload/v1735896967/Screenshot_2025-01-03_150543_kkkus1.png",
+    role: "Frontend Developer",
+    company: "TECHNO-BOT TECHNOLOGIES PRIVATE LIMITED",
+    date: "Oct 2022 - Oct 2023",
+    desc: "As a Frontend Developer at TECHNO-BOT TECHNOLOGIES PRIVATE LIMITED, I specialize in creating dynamic and responsive web applications. My work involves designing intuitive user interfaces, optimizing performance, and ensuring seamless interactions through technologies like ReactJS, HTML, CSS, and JavaScript. I collaborate with cross-functional teams to deliver scalable and efficient solutions that meet business requirements and provide an exceptional user experience",
+    skills: ["HTML","CSS","Javascript","ReactJS","Git","Tailwind CSS","Bootstrap"],
+    doc: " ",
+  },
+ ]
