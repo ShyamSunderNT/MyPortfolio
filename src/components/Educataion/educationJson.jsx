@@ -31,16 +31,26 @@ export const education = [
  export const experience =[
   {
     id: 0,
+    img: "https://res.cloudinary.com/dn5pbsqio/image/upload/v1780851895/Company_logo_ndoevd.png",
+    role: "Full Stack Developer",
+    company: "Nasaa Digital Media",
+    date: "Feb-2025 - Current",
+    desc: "Worked as a Full Stack MERN Developer in developing a media audition management application. Designed responsive frontend modules using React.js and developed secure backend APIs with Node.js, Express.js, and MongoDB to manage candidate profiles and audition workflows.",
+    skills: ["React.js", "Node.js", "Express.js", "MongoDB", "JavaScript", "HTML5", "CSS3", "Bootstrap", "Redux", "REST APIs", "JWT Authentication", "Git", "GitHub", "Postman", "MySQL"],
+    doc: " ",
+  },
+  {
+    id: 1,
     img: "https://content.jdmagicbox.com/comp/ramanathapuram/u4/9999p4567.4567.240222164813.j7u4/catalogue/lubo-soft-panaikulam-ramanathapuram-computer-dealers-m1vto0d0qp-250.jpg",
     role: "Frontend Developer",
     company: "LUBO SOFT Software Solutions Company",
-    date: "july-2024 - Present",
+    date: "july-2024 - jan-2025",
     desc: "I am currently working as a freelancer at Lubo Soft, where I contribute to various projects, providing custom software solutions and web development services. My focus is on delivering high-quality, user-centric applications tailored to meet client requirements and business goals.",
     skills: ["HTML","CSS","Javascript","ReactJS","Git","Tailwind CSS","Bootstrap"],
     doc: " ",
   },
   {
-    id: 1,
+    id: 2,
     img: "https://res.cloudinary.com/dn5pbsqio/image/upload/v1735896967/Screenshot_2025-01-03_150543_kkkus1.png",
     role: "Frontend Developer",
     company: "TECHNO-BOT TECHNOLOGIES PRIVATE LIMITED",

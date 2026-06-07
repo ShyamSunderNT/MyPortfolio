@@ -61,7 +61,8 @@ const Experience = () => {
             marginBottom: "40px",
           }}
         >
-       I am currently working as an Frontend Developer at Lubo Soft, specializing in building and customizing applications on the ServiceNow platform.
+      **Currently Working as a Freelance MERN Stack Developer at Naasa Digital Media** – Developing media audition management and full-stack web applications.
+
        </Desc>
 
         <VerticalTimeline>
